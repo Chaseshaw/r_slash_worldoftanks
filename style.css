@@ -304,2628 +304,1858 @@ width:30px;
 
 .flair {
 font-size:11px;
-border:0;
+font-weight:bold;
+background-color:#c5c5c5;
 }
 
-
-.flair-116:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -5px;
-padding:0;
-}
-
-.flair-1SBP:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -31px;
-padding:0;
-}
-
-.flair-1STLT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -31px;
-padding:0;
-}
-
-.flair-200IQ:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -343px;
-padding:0;
-}
-
-
-.flair-9-TD:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -31px;
-padding:0;
-}
-
-.flair-ACA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -31px;
-padding:0;
-}
-
-.flair-ACE-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -31px;
-padding:0;
-}
-
-.flair-ACES:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -31px;
-padding:0;
-}
-
-.flair-AGGRO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -31px;
-padding:0;
-}
-
-.flair-ALLOY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -31px;
-padding:0;
-}
-
-.flair-ANVIL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -31px;
-padding:0;
-}
-
-.flair-AO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -31px;
-padding:0;
-}
-
-.flair-A-P:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -31px;
-padding:0;
-}
-
-.flair-ARBOK:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -31px;
-padding:0;
-}
-
-.flair-ARCTC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -31px;
-padding:0;
-}
-
-.flair-ARMED:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -57px;
-padding:0;
-}
-
-.flair-ARRG:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -57px;
-padding:0;
-}
-
-.flair-B0RT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -57px;
-padding:0;
-}
-
-.flair-BABA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -57px;
-padding:0;
-}
-
-.flair-BADGR:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -57px;
-padding:0;
-}
-
-.flair-BASE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -57px;
-padding:0;
-}
-
-.flair-BIA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -57px;
-padding:0;
-}
-
-.flair-BIMBO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -57px;
-padding:0;
-}
-
-.flair-BL1TZ:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -57px;
-padding:0;
-}
-
-.flair-BOLD:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -57px;
-padding:0;
-}
-
-.flair-BT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -57px;
-padding:0;
-}
-
-.flair-BULBA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -57px;
-padding:0;
-}
-
-.flair-BULLS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -57px;
-padding:0;
-}
-
-.flair-BUNNY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -83px;
-padding:0;
-}
-
-.flair-BURDY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -83px;
-padding:0;
-}
-
-.flair-CAZA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -83px;
-padding:0;
-}
-
-.flair--CFD-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -5px;
-padding:0;
-}
-
-.flair-CHAI:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -83px;
-padding:0;
-}
-
-.flair-CHAII:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -83px;
-padding:0;
-}
-
-.flair-CLAWS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -83px;
-padding:0;
-}
-
-.flair-CNC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -83px;
-padding:0;
-}
-
-.flair-DICE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -83px;
-padding:0;
-}
-
-.flair-DICED:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -83px;
-padding:0;
-}
-
-.flair-DICER:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -83px;
-padding:0;
-}
-
-.flair-D-O-S:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -83px;
-padding:0;
-}
-
-.flair-DPS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -83px;
-padding:0;
-}
-
-.flair-EFE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -83px;
-padding:0;
-}
-
-.flair-ENJOY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -5px;
-padding:0;
-}
-
-.flair-EPIC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -109px;
-padding:0;
-}
-
-.flair-ESPRT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -109px;
-padding:0;
-}
-
-.flair-F15:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -109px;
-padding:0;
-}
-
-.flair-F-3:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -109px;
-padding:0;
-}
-
-.flair-F4CE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -109px;
-padding:0;
-}
-
-.flair-FAME:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -109px;
-padding:0;
-}
-
-.flair-FGTVE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -109px;
-padding:0;
-}
-
-.flair-FIRE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -109px;
-padding:0;
-}
-
-.flair-F-J:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -109px;
-padding:0;
-}
-
-.flair-FLUKE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -109px;
-padding:0;
-}
-
-.flair-FORGE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -109px;
-padding:0;
-}
-
-.flair-FOXEY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -109px;
-padding:0;
-}
-
-.flair--FU-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -5px;
-padding:0;
-}
-
-.flair--G-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -5px;
-padding:0;
-}
-
-.flair-GANGZ:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -109px;
-padding:0;
-}
-
-.flair-GBEAR:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -135px;
-padding:0;
-}
-
-.flair-GKC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -135px;
-padding:0;
-}
-
-.flair-GMONK:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -135px;
-padding:0;
-}
-
-.flair-GSKUL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -343px;
-padding:0;
-}
-
-.flair-GUP:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -135px;
-padding:0;
-}
-
-.flair-HARM:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -135px;
-padding:0;
-}
-
-.flair-HAVOK:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -135px;
-padding:0;
-}
-
-.flair-HDU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -135px;
-padding:0;
-}
-
-.flair-HELL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -135px;
-padding:0;
-}
-
-.flair-HT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -135px;
-padding:0;
-}
-
-.flair--HT-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -5px;
-padding:0;
-}
-
-.flair-IDEAL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -135px;
-padding:0;
-}
-
-.flair-INSIGHT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -5px;
-padding:0;
-}
-
-.flair-IOC-5:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -135px;
-padding:0;
-}
-
-.flair-JCKAL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -135px;
-padding:0;
-}
-
-.flair-JIMBO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -135px;
-padding:0;
-}
-
-.flair-JUMBO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -161px;
-padding:0;
-}
-
-.flair-KAZNA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -161px;
-padding:0;
-}
-
-.flair-KBEAR:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -161px;
-padding:0;
-}
-
-.flair-KING:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -161px;
-padding:0;
-}
-
-.flair-KRAWL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -161px;
-padding:0;
-}
-
-.flair-L-FEW:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -161px;
-padding:0;
-}
-
-.flair-LAVA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -343px;
-padding:0;
-}
-
-.flair-LIMBO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
+.flair:before {
+background-image:url(%%clan-sprites8-2020%%);
 width:16px;
 height:16px;
-background-position:-161px -161px;
-padding:0;
-}
-
-.flair-LL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
 display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -161px;
-padding:0;
-}
-
-.flair-LUCK:before {
-margin-right:2px;
 content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -161px;
-padding:0;
+margin-right: 3px;
 }
 
-.flair-MAAM:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -161px;
-padding:0;
-}
 
 .flair-MAHOU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -161px;
-padding:0;
+background-position:-0px 0px;
 }
-
-.flair-MILD:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -187px;
-padding:0;
+.flair-MAHOU {
+color:#222266;
 }
-
-.flair-M-I-T:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -161px;
-padding:0;
+.flair--G-:before {
+background-position:-16px 0px;
 }
-
-.flair-M--M:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -161px;
-padding:0;
+.flair--G- {
+color:#394f41;
 }
-
-.flair-MNSTR:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -187px;
-padding:0;
+.flair-YOUJO:before {
+background-position:-32px 0px;
 }
-
-.flair-MYTH:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -187px;
-padding:0;
+.flair-YOUJO {
+color:#403b56;
 }
-
-.flair-NARWL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -187px;
-padding:0;
+.flair-OBTUS:before {
+background-position:-48px 0px;
 }
-
-.flair-NET:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -187px;
-padding:0;
+.flair-OBTUS {
+color:#00b4fa;
 }
-
-.flair-NOSHT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -187px;
-padding:0;
+.flair-TOMA:before {
+background-position:-64px 0px;
 }
-
-.flair-NTR:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -187px;
-padding:0;
+.flair-TOMA {
+color:#3c585f;
 }
-
-.flair-NUGGS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -187px;
-padding:0;
+.flair-NEWBI:before {
+background-position:-80px 0px;
 }
-
-.flair-OM:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -187px;
-padding:0;
+.flair-NEWBI {
+color:#ea95a1;
 }
-
-.flair-OMNI:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -187px;
-padding:0;
+.flair-GIVUP:before {
+background-position:-96px 0px;
 }
-
-.flair--ONE-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -5px;
-padding:0;
+.flair-GIVUP {
+color:#ff7f12;
 }
-
-.flair-O-S-C:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -187px;
-padding:0;
-}
-
-.flair-OTTER:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -187px;
-padding:0;
-}
-
-.flair-PBKAC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -187px;
-padding:0;
-}
-
-.flair-PBKAC-SEA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -213px;
-padding:0;
-}
-
-.flair-PIR8:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -213px;
-padding:0;
-}
-
-.flair-PLSGO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -213px;
-padding:0;
-}
-
-.flair-PONY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -213px;
-padding:0;
-}
-
-.flair-PRAV:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -213px;
-padding:0;
-}
-
-.flair-PRTSN:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -213px;
-padding:0;
-}
-
-.flair-PSOP:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -213px;
-padding:0;
-}
-
-.flair-PSQD:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -213px;
-padding:0;
-}
-
-.flair-PTS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -213px;
-padding:0;
-}
-
-.flair-PUPEH:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -213px;
-padding:0;
-}
-
-.flair-PVP:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -213px;
-padding:0;
-}
-
-.flair-PXA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -213px;
-padding:0;
-}
-
-.flair-PZB:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -213px;
-padding:0;
-}
-
-.flair-PZK:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -239px;
-padding:0;
-}
-
-.flair-QC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -239px;
-padding:0;
-}
-
-.flair-R1SE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -239px;
-padding:0;
-}
-
-.flair--RA-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -5px;
-padding:0;
-}
-
-.flair-RAZE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -239px;
-padding:0;
-}
-
-.flair-RDDT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -239px;
-padding:0;
-}
-
-.flair-RDDT0:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -239px;
-padding:0;
-}
-
-.flair-RDDT1-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -239px;
-padding:0;
-}
-
-.flair-RDDT2-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -239px;
-padding:0;
-}
-
-.flair-RDDT3:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -239px;
-padding:0;
-}
-
-.flair-RDDT3-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -239px;
-padding:0;
-}
-
-.flair-RDDT4-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -239px;
-padding:0;
-}
-
-.flair-RDDT5-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -265px;
-padding:0;
-}
-
-.flair-RDDT6:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -265px;
-padding:0;
-}
-
-.flair-RDDT6-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -265px;
-padding:0;
-}
-
-.flair-RDDT7:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -265px;
-padding:0;
-}
-
-.flair-RDDT7-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -265px;
-padding:0;
-}
-
-.flair-RDDT9:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -265px;
-padding:0;
-}
-
-.flair-RDDT-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -239px;
-padding:0;
-}
-
-.flair-RDDT-SEA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -239px;
-padding:0;
-}
-
-.flair-RDDTV:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -265px;
-padding:0;
-}
-
-.flair-RDDTW:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -265px;
-padding:0;
-}
-
-.flair-RDDTX:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -265px;
-padding:0;
-}
-
-.flair-RDDTX-EU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -265px;
-padding:0;
-}
-
-.flair-RDTT2:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -265px;
-padding:0;
-}
-
-.flair-RED-S:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -265px;
-padding:0;
-}
-
-.flair-REL-2:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -291px;
-padding:0;
-}
-
-.flair-REL-3:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -291px;
-padding:0;
-}
-
-.flair-REL-A:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -265px;
-padding:0;
-}
-
 .flair-RELIC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -291px;
-padding:0;
+background-position:-112px 0px;
 }
-
-.flair-REL-V:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -291px;
-padding:0;
+.flair-RELIC {
+color:#455b87;
 }
-
-.flair--RIP-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -5px;
-padding:0;
+.flair-TEACH:before {
+background-position:-128px 0px;
 }
-
-.flair-ROXY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -291px;
-padding:0;
+.flair-TEACH {
+color:#f231bd;
 }
-
-.flair-RS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -291px;
-padding:0;
+.flair-OTTER:before {
+background-position:-144px 0px;
 }
-
-.flair-RSOP:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -291px;
-padding:0;
+.flair-OTTER {
+color:#182095;
 }
-
-.flair-RUS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -291px;
-padding:0;
+.flair-RDDT:before {
+background-position:-160px 0px;
 }
-
-.flair-RUSS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -291px;
-padding:0;
+.flair-RDDT {
+color:#13dc00;
 }
-
-.flair-S3AL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -291px;
-padding:0;
-}
-
-.flair-S4LT:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -343px;
-padding:0;
-}
-
-.flair-SCT8:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -291px;
-padding:0;
-}
-
-.flair-S-D:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -291px;
-padding:0;
-}
-
-.flair-SG:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -291px;
-padding:0;
-}
-
-.flair-SHDWC:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -317px;
-padding:0;
-}
-
-.flair-SIMP:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-31px -317px;
-padding:0;
-}
-
-.flair-SKILL:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -317px;
-padding:0;
-}
-
-.flair-SLOPE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-83px -317px;
-padding:0;
-}
-
-.flair-SNOO:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-109px -317px;
-padding:0;
-}
-
-.flair-SNRK:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-135px -317px;
-padding:0;
-}
-
-.flair-SPY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-161px -317px;
-padding:0;
-}
-
-.flair-SRSLY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -317px;
-padding:0;
-}
-
-.flair-SSGS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -317px;
-padding:0;
-}
-
-.flair-STAND:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-239px -317px;
-padding:0;
-}
-
-.flair-SU:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-265px -317px;
-padding:0;
-}
-
-.flair-TANG:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-317px -317px;
-padding:0;
-}
-
-.flair-TA-RE:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-291px -317px;
-padding:0;
-}
-
-.flair-TESLA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -5px;
-padding:0;
-}
-
-.flair-THEOS:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -31px;
-padding:0;
-}
-
-.flair-THUGZ:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -57px;
-padding:0;
-}
-
-.flair-TL-DR:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -83px;
-padding:0;
-}
-
-.flair--TRN-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-187px -5px;
-padding:0;
-}
-
-.flair-TTIME:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -109px;
-padding:0;
-}
-
-.flair-UGKB:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -135px;
-padding:0;
-}
-
-.flair-UNICA:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -161px;
-padding:0;
-}
-
-.flair-USVCH:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -187px;
-padding:0;
-}
-
-.flair--UV-:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-213px -5px;
-padding:0;
-}
-
-.flair-VECTR:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -213px;
-padding:0;
-}
-
 .flair-VILIN:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -239px;
-padding:0;
+background-position:-176px 0px;
+}
+.flair-VILIN {
+color:#ac0c0c;
+}
+.flair-TT-6:before {
+background-position:-192px 0px;
+}
+.flair-TT-6 {
+color:#2b9eda;
+}
+.flair-RES3T:before {
+background-position:-208px 0px;
+}
+.flair-RES3T {
+color:#4e7239;
+}
+.flair-PZB:before {
+background-position:-224px 0px;
+}
+.flair-PZB {
+color:#eeb701;
+}
+.flair-T-GBU:before {
+background-position:-240px 0px;
+}
+.flair-T-GBU {
+color:#b98b41;
+}
+.flair-GOONZ:before {
+background-position:-256px 0px;
+}
+.flair-GOONZ {
+color:#066bff;
+}
+.flair-SIMP:before {
+background-position:-272px 0px;
+}
+.flair-SIMP {
+color:#ff0000;
+}
+.flair-X-T7:before {
+background-position:-288px 0px;
+}
+.flair-X-T7 {
+color:#ff1313;
+}
+.flair-S-A-R:before {
+background-position:-304px 0px;
+}
+.flair-S-A-R {
+color:#00eed1;
+}
+.flair-BOND:before {
+background-position:-320px 0px;
+}
+.flair-BOND {
+color:#a9a7d5;
+}
+.flair-RS:before {
+background-position:-336px 0px;
+}
+.flair-RS {
+color:#8f0000;
+}
+.flair-USCRVGUSCR:before {
+background-position:-352px 0px;
+}
+.flair-USCRVGUSCR {
+color:#23c700;
+}
+.flair-PHASE:before {
+background-position:-368px 0px;
+}
+.flair-PHASE {
+color:#780753;
+}
+.flair-LYB:before {
+background-position:-384px 0px;
+}
+.flair-LYB {
+color:#3f81e9;
+}
+.flair-SNPAI:before {
+background-position:-400px 0px;
+}
+.flair-SNPAI {
+color:#80ccff;
+}
+.flair-USCR2D2USCR:before {
+background-position:-416px 0px;
+}
+.flair-USCR2D2USCR {
+color:#7300ce;
+}
+.flair-EMAIL:before {
+background-position:-432px 0px;
+}
+.flair-EMAIL {
+color:#0022bb;
+}
+.flair-Y0L0:before {
+background-position:-448px 0px;
+}
+.flair-Y0L0 {
+color:#2a7f74;
+}
+.flair--ZOO-:before {
+background-position:-464px 0px;
+}
+.flair--ZOO- {
+color:#800000;
+}
+.flair-USCRTVSUSCR:before {
+background-position:-480px 0px;
+}
+.flair-USCRTVSUSCR {
+color:#c21f1f;
+}
+.flair-WONKA:before {
+background-position:-496px 0px;
+}
+.flair-WONKA {
+color:#793db6;
+}
+.flair-REL2:before {
+background-position:-512px 0px;
+}
+.flair-REL2 {
+color:#455b87;
+}
+.flair-REL-A:before {
+background-position:-528px 0px;
+}
+.flair-REL-A {
+color:#455b87;
+}
+.flair--USCRWUSCR-:before {
+background-position:-544px 0px;
+}
+.flair--USCRWUSCR- {
+color:#0042b7;
+}
+.flair--SSS-:before {
+background-position:-560px 0px;
+}
+.flair--SSS- {
+color:#120f7a;
+}
+.flair-SEGA:before {
+background-position:-576px 0px;
+}
+.flair-SEGA {
+color:#1c61ac;
+}
+.flair-CLASS:before {
+background-position:-592px 0px;
+}
+.flair-CLASS {
+color:#61017f;
+}
+.flair-OPIC:before {
+background-position:-608px 0px;
+}
+.flair-OPIC {
+color:#d90ef6;
+}
+.flair-O-VER:before {
+background-position:-624px 0px;
+}
+.flair-O-VER {
+color:#136e11;
+}
+.flair-INVIL:before {
+background-position:-640px 0px;
+}
+.flair-INVIL {
+color:#4917b9;
+}
+.flair--T1G-:before {
+background-position:-656px 0px;
+}
+.flair--T1G- {
+color:#d87612;
+}
+.flair-TL-DR:before {
+background-position:-672px 0px;
+}
+.flair-TL-DR {
+color:#0077fb;
+}
+.flair-RO-TD:before {
+background-position:-688px 0px;
+}
+.flair-RO-TD {
+color:#1721e6;
+}
+.flair-4ORCE:before {
+background-position:-704px 0px;
+}
+.flair-4ORCE {
+color:#7b7b7b;
+}
+.flair-HARMZ:before {
+background-position:-720px 0px;
+}
+.flair-HARMZ {
+color:#fc0000;
+}
+.flair-TUSCRKUSCRO:before {
+background-position:-736px 0px;
+}
+.flair-TUSCRKUSCRO {
+color:#d00900;
+}
+.flair-TRY:before {
+background-position:-752px 0px;
+}
+.flair-TRY {
+color:#812020;
+}
+.flair-E-7:before {
+background-position:-768px 0px;
+}
+.flair-E-7 {
+color:#de5c00;
+}
+.flair-D--T:before {
+background-position:-784px 0px;
+}
+.flair-D--T {
+color:#0001cf;
+}
+.flair-GURUS:before {
+background-position:-800px 0px;
+}
+.flair-GURUS {
+color:#7308e7;
+}
+.flair-ONION:before {
+background-position:-816px 0px;
+}
+.flair-ONION {
+color:#cbc678;
+}
+.flair-IXGD:before {
+background-position:-832px 0px;
+}
+.flair-IXGD {
+color:#10f806;
+}
+.flair-RSRS:before {
+background-position:-848px 0px;
+}
+.flair-RSRS {
+color:#f10606;
+}
+.flair--TRD-:before {
+background-position:-864px 0px;
+}
+.flair--TRD- {
+color:#60e6fb;
+}
+.flair--NCP-:before {
+background-position:-880px 0px;
+}
+.flair--NCP- {
+color:#f90000;
+}
+.flair--W-W-:before {
+background-position:-896px 0px;
+}
+.flair--W-W- {
+color:#778000;
+}
+.flair-BLAKH:before {
+background-position:-912px 0px;
+}
+.flair-BLAKH {
+color:#2308ff;
+}
+.flair-ASTER:before {
+background-position:-928px 0px;
+}
+.flair-ASTER {
+color:#6000e3;
+}
+.flair-CHAI:before {
+background-position:-944px 0px;
+}
+.flair-CHAI {
+color:#2d8333;
+}
+.flair-WOTLA:before {
+background-position:-960px 0px;
+}
+.flair-WOTLA {
+color:#ed0000;
+}
+.flair-4HIM:before {
+background-position:-976px 0px;
+}
+.flair-4HIM {
+color:#30f4ed;
+}
+.flair-IN-WO:before {
+background-position:-992px 0px;
+}
+.flair-IN-WO {
+color:#f27900;
+}
+.flair--PHD-:before {
+background-position:-1008px 0px;
+}
+.flair--PHD- {
+color:#ea2aff;
+}
+.flair-YOKAI:before {
+background-position:-1024px 0px;
+}
+.flair-YOKAI {
+color:#b744bc;
+}
+.flair-ORDER:before {
+background-position:-1040px 0px;
+}
+.flair-ORDER {
+color:#0affe1;
+}
+.flair-CHILE:before {
+background-position:-1056px 0px;
+}
+.flair-CHILE {
+color:#6429e0;
+}
+.flair-YK:before {
+background-position:-1072px 0px;
+}
+.flair-YK {
+color:#687f72;
+}
+.flair-KEEP:before {
+background-position:-1088px 0px;
+}
+.flair-KEEP {
+color:#21a2cf;
+}
+.flair--FKS-:before {
+background-position:-1104px 0px;
+}
+.flair--FKS- {
+color:#ff221f;
+}
+.flair-HACKD:before {
+background-position:-1120px 0px;
+}
+.flair-HACKD {
+color:#3994b2;
+}
+.flair-N0M0D:before {
+background-position:-1136px 0px;
+}
+.flair-N0M0D {
+color:#a821b8;
+}
+.flair-PIXL-:before {
+background-position:-1152px 0px;
+}
+.flair-PIXL- {
+color:#00c9ff;
+}
+.flair-CLAWS:before {
+background-position:-1168px 0px;
+}
+.flair-CLAWS {
+color:#2836c8;
+}
+.flair-FLAR3:before {
+background-position:-1184px 0px;
+}
+.flair-FLAR3 {
+color:#fc7900;
+}
+.flair-PL1AD:before {
+background-position:-1200px 0px;
+}
+.flair-PL1AD {
+color:#bd1b1b;
+}
+.flair-W1LDH:before {
+background-position:-1216px 0px;
+}
+.flair-W1LDH {
+color:#7025b8;
+}
+.flair-MAD-:before {
+background-position:-1232px 0px;
+}
+.flair-MAD- {
+color:#7600b0;
+}
+.flair--RH-:before {
+background-position:-1248px 0px;
+}
+.flair--RH- {
+color:#9804ae;
+}
+.flair-PROF:before {
+background-position:-1264px 0px;
+}
+.flair-PROF {
+color:#e70006;
+}
+.flair-DNGR:before {
+background-position:-1280px 0px;
+}
+.flair-DNGR {
+color:#e2ef1d;
+}
+.flair-C0TAB:before {
+background-position:-1296px 0px;
+}
+.flair-C0TAB {
+color:#ff7c20;
+}
+.flair-USCRAKAUSCR:before {
+background-position:-1312px 0px;
+}
+.flair-USCRAKAUSCR {
+color:#faf40c;
+}
+.flair-C-A-T:before {
+background-position:-1328px 0px;
+}
+.flair-C-A-T {
+color:#e7e619;
+}
+.flair-TRON:before {
+background-position:-1344px 0px;
+}
+.flair-TRON {
+color:#63e4ef;
+}
+.flair-LUCID:before {
+background-position:-1360px 0px;
+}
+.flair-LUCID {
+color:#16b3ff;
+}
+.flair-TAP:before {
+background-position:-1376px 0px;
+}
+.flair-TAP {
+color:#6a23af;
+}
+.flair-RVN-G:before {
+background-position:-1392px 0px;
+}
+.flair-RVN-G {
+color:#e7cc41;
+}
+.flair-COLD1:before {
+background-position:-1408px 0px;
+}
+.flair-COLD1 {
+color:#004584;
+}
+.flair-E50:before {
+background-position:-1424px 0px;
+}
+.flair-E50 {
+color:#3cc2c2;
+}
+.flair-G0LDN:before {
+background-position:-1440px 0px;
+}
+.flair-G0LDN {
+color:#f6b512;
+}
+.flair-DHO-X:before {
+background-position:-1456px 0px;
+}
+.flair-DHO-X {
+color:#c28245;
+}
+.flair-RAIDM:before {
+background-position:-1472px 0px;
+}
+.flair-RAIDM {
+color:#e80000;
+}
+.flair-PHASD:before {
+background-position:-1488px 0px;
+}
+.flair-PHASD {
+color:#0018b3;
+}
+.flair-NVRDY:before {
+background-position:-1504px 0px;
+}
+.flair-NVRDY {
+color:#110788;
+}
+.flair--AS-:before {
+background-position:-1520px 0px;
+}
+.flair--AS- {
+color:#00ff00;
+}
+.flair-NMBS:before {
+background-position:-1536px 0px;
+}
+.flair-NMBS {
+color:#ff0303;
+}
+.flair-SQURL:before {
+background-position:-1552px 0px;
+}
+.flair-SQURL {
+color:#000be2;
+}
+.flair-F-A-M:before {
+background-position:-1568px 0px;
+}
+.flair-F-A-M {
+color:#0ea185;
+}
+.flair-FUSCRUSCRR:before {
+background-position:-1584px 0px;
+}
+.flair-FUSCRUSCRR {
+color:#000280;
+}
+.flair-MAHOU:before {
+background-position:-1600px 0px;
+}
+.flair-MAHOU {
+color:#222266;
+}
+.flair--G-:before {
+background-position:-1616px 0px;
+}
+.flair--G- {
+color:#394f41;
+}
+.flair-YOUJO:before {
+background-position:-1632px 0px;
+}
+.flair-YOUJO {
+color:#403b56;
+}
+.flair-WE3D:before {
+background-position:-1648px 0px;
+}
+.flair-WE3D {
+color:#af0000;
+}
+.flair-DD-S:before {
+background-position:-1664px 0px;
+}
+.flair-DD-S {
+color:#d04633;
+}
+.flair-USCRSLUSCR:before {
+background-position:-1680px 0px;
+}
+.flair-USCRSLUSCR {
+color:#e43a3a;
+}
+.flair-CRZY:before {
+background-position:-1696px 0px;
+}
+.flair-CRZY {
+color:#40bcce;
+}
+.flair-ALL:before {
+background-position:-1712px 0px;
+}
+.flair-ALL {
+color:#a67a14;
+}
+.flair-DANKY:before {
+background-position:-1728px 0px;
+}
+.flair-DANKY {
+color:#1eff03;
+}
+.flair-USCRMIBUSCR:before {
+background-position:-1744px 0px;
+}
+.flair-USCRMIBUSCR {
+color:#404040;
+}
+.flair-GLAD-:before {
+background-position:-1760px 0px;
+}
+.flair-GLAD- {
+color:#a06160;
+}
+.flair-REL-V:before {
+background-position:-1776px 0px;
+}
+.flair-REL-V {
+color:#455b87;
+}
+.flair-EDLM:before {
+background-position:-1792px 0px;
+}
+.flair-EDLM {
+color:#25cb51;
+}
+.flair-P-W:before {
+background-position:-1808px 0px;
+}
+.flair-P-W {
+color:#111d6e;
+}
+.flair--NHL-:before {
+background-position:-1824px 0px;
+}
+.flair--NHL- {
+color:#67bfff;
+}
+.flair-PSYCO:before {
+background-position:-1840px 0px;
+}
+.flair-PSYCO {
+color:#fbff07;
+}
+.flair-BTQ:before {
+background-position:-1856px 0px;
+}
+.flair-BTQ {
+color:#f1bb18;
+}
+.flair-REL-B:before {
+background-position:-1872px 0px;
+}
+.flair-REL-B {
+color:#3d466b;
+}
+.flair-SMOK3:before {
+background-position:-1888px 0px;
+}
+.flair-SMOK3 {
+color:#6494ff;
+}
+.flair-K-Z:before {
+background-position:-1904px 0px;
+}
+.flair-K-Z {
+color:#7eda71;
+}
+.flair-S-A-B:before {
+background-position:-1920px 0px;
+}
+.flair-S-A-B {
+color:#e3d307;
+}
+.flair-THREW:before {
+background-position:-1936px 0px;
+}
+.flair-THREW {
+color:#d00000;
+}
+.flair-ACEC:before {
+background-position:-1952px 0px;
+}
+.flair-ACEC {
+color:#f9ee19;
+}
+.flair-SLAPM:before {
+background-position:-1968px 0px;
+}
+.flair-SLAPM {
+color:#001fcb;
+}
+.flair-O-66:before {
+background-position:-1984px 0px;
+}
+.flair-O-66 {
+color:#4c73f9;
+}
+.flair--USCR-:before {
+background-position:-2000px 0px;
+}
+.flair--USCR- {
+color:#3c3fde;
+}
+.flair-T-K-O:before {
+background-position:-2016px 0px;
+}
+.flair-T-K-O {
+color:#fedb22;
+}
+.flair-BRU2L:before {
+background-position:-2032px 0px;
+}
+.flair-BRU2L {
+color:#d1251c;
+}
+.flair-NUTTZ:before {
+background-position:-2048px 0px;
+}
+.flair-NUTTZ {
+color:#1b0be7;
+}
+.flair-LOAD:before {
+background-position:-2064px 0px;
+}
+.flair-LOAD {
+color:#d53fb3;
+}
+.flair-FISH-:before {
+background-position:-2080px 0px;
+}
+.flair-FISH- {
+color:#5bb24e;
+}
+.flair-JMSQC:before {
+background-position:-2096px 0px;
+}
+.flair-JMSQC {
+color:#4eff30;
+}
+.flair-IPCL:before {
+background-position:-2112px 0px;
+}
+.flair-IPCL {
+color:#c50000;
+}
+.flair-THUGZ:before {
+background-position:-2128px 0px;
+}
+.flair-THUGZ {
+color:#943ab9;
+}
+.flair-HACK1:before {
+background-position:-2144px 0px;
+}
+.flair-HACK1 {
+color:#924ca8;
+}
+.flair-TOMI:before {
+background-position:-2160px 0px;
+}
+.flair-TOMI {
+color:#6100a4;
+}
+.flair-ICB:before {
+background-position:-2176px 0px;
+}
+.flair-ICB {
+color:#48dcff;
+}
+.flair--MOE-:before {
+background-position:-2192px 0px;
+}
+.flair--MOE- {
+color:#ff7f27;
+}
+.flair-FELIX:before {
+background-position:-2208px 0px;
+}
+.flair-FELIX {
+color:#4ecdff;
+}
+.flair-WN:before {
+background-position:-2224px 0px;
+}
+.flair-WN {
+color:#45b940;
+}
+.flair-RUGIR:before {
+background-position:-2240px 0px;
+}
+.flair-RUGIR {
+color:#500085;
+}
+.flair-TBR13:before {
+background-position:-2256px 0px;
+}
+.flair-TBR13 {
+color:#ff0c0c;
+}
+.flair-VENUM:before {
+background-position:-2272px 0px;
+}
+.flair-VENUM {
+color:#ff0000;
+}
+.flair-REBEL:before {
+background-position:-2288px 0px;
+}
+.flair-REBEL {
+color:#03ff16;
+}
+.flair-PINGU:before {
+background-position:-2304px 0px;
+}
+.flair-PINGU {
+color:#f96900;
+}
+.flair-KOZAK:before {
+background-position:-2320px 0px;
+}
+.flair-KOZAK {
+color:#7cff13;
+}
+.flair-EX-BR:before {
+background-position:-2336px 0px;
+}
+.flair-EX-BR {
+color:#75e548;
+}
+.flair-J4F:before {
+background-position:-2352px 0px;
+}
+.flair-J4F {
+color:#9679ba;
+}
+.flair-D-DAY:before {
+background-position:-2368px 0px;
+}
+.flair-D-DAY {
+color:#787878;
+}
+.flair-BRIKS:before {
+background-position:-2384px 0px;
+}
+.flair-BRIKS {
+color:#f60000;
+}
+.flair-VAHLA:before {
+background-position:-2400px 0px;
+}
+.flair-VAHLA {
+color:#4073ce;
+}
+.flair-PYRMD:before {
+background-position:-2416px 0px;
+}
+.flair-PYRMD {
+color:#31ff02;
+}
+.flair-MAZUT:before {
+background-position:-2432px 0px;
+}
+.flair-MAZUT {
+color:#8167bf;
+}
+.flair-USCRUSCRRSUSCR:before {
+background-position:-2448px 0px;
+}
+.flair-USCRUSCRRSUSCR {
+color:#c20000;
+}
+.flair-DREAM:before {
+background-position:-2464px 0px;
+}
+.flair-DREAM {
+color:#c1bb4e;
+}
+.flair-USCRTLMUSCR:before {
+background-position:-2480px 0px;
+}
+.flair-USCRTLMUSCR {
+color:#82678a;
+}
+.flair-CTO:before {
+background-position:-2496px 0px;
+}
+.flair-CTO {
+color:#d50505;
+}
+.flair-TAC-D:before {
+background-position:-2512px 0px;
+}
+.flair-TAC-D {
+color:#3d5b3a;
+}
+.flair-A-L-V:before {
+background-position:-2528px 0px;
+}
+.flair-A-L-V {
+color:#913aff;
+}
+.flair-SEA-M:before {
+background-position:-2544px 0px;
+}
+.flair-SEA-M {
+color:#64b75f;
+}
+.flair-USCRWFUSCR:before {
+background-position:-2560px 0px;
+}
+.flair-USCRWFUSCR {
+color:#6cbe7b;
+}
+.flair-FORTH:before {
+background-position:-2576px 0px;
+}
+.flair-FORTH {
+color:#4300fd;
+}
+.flair-C0BR4:before {
+background-position:-2592px 0px;
+}
+.flair-C0BR4 {
+color:#347f38;
+}
+.flair--NGA-:before {
+background-position:-2608px 0px;
+}
+.flair--NGA- {
+color:#624373;
+}
+.flair-GSH:before {
+background-position:-2624px 0px;
+}
+.flair-GSH {
+color:#968b44;
+}
+.flair-KRAB:before {
+background-position:-2640px 0px;
+}
+.flair-KRAB {
+color:#be42bc;
+}
+.flair--ETU-:before {
+background-position:-2656px 0px;
+}
+.flair--ETU- {
+color:#8e07d1;
+}
+.flair-L-H-A:before {
+background-position:-2672px 0px;
+}
+.flair-L-H-A {
+color:#06a20f;
+}
+.flair-R3ACT:before {
+background-position:-2688px 0px;
+}
+.flair-R3ACT {
+color:#1100a1;
+}
+.flair--OPS-:before {
+background-position:-2704px 0px;
+}
+.flair--OPS- {
+color:#32d954;
+}
+.flair-OHARU:before {
+background-position:-2720px 0px;
+}
+.flair-OHARU {
+color:#bc47c1;
+}
+.flair--TNT-:before {
+background-position:-2736px 0px;
+}
+.flair--TNT- {
+color:#158111;
+}
+.flair-HARM:before {
+background-position:-2752px 0px;
+}
+.flair-HARM {
+color:#2e11f2;
+}
+.flair-HDSUSCRUSCR:before {
+background-position:-2768px 0px;
+}
+.flair-HDSUSCRUSCR {
+color:#c00031;
+}
+.flair-CATI:before {
+background-position:-2784px 0px;
+}
+.flair-CATI {
+color:#5b1dee;
+}
+.flair-RDDT6:before {
+background-position:-2800px 0px;
+}
+.flair-RDDT6 {
+color:#ff552e;
+}
+.flair-CUSCRCUSCRG:before {
+background-position:-2816px 0px;
+}
+.flair-CUSCRCUSCRG {
+color:#5df000;
+}
+.flair-IKU:before {
+background-position:-2832px 0px;
+}
+.flair-IKU {
+color:#6e6e6e;
+}
+.flair-GNZU:before {
+background-position:-2848px 0px;
+}
+.flair-GNZU {
+color:#ff4d4c;
+}
+.flair-HARMD:before {
+background-position:-2864px 0px;
+}
+.flair-HARMD {
+color:#ea0000;
+}
+.flair-LOS22:before {
+background-position:-2880px 0px;
+}
+.flair-LOS22 {
+color:#122ebf;
+}
+.flair-MS0B:before {
+background-position:-2896px 0px;
+}
+.flair-MS0B {
+color:#93a33a;
+}
+.flair-RDTT2:before {
+background-position:-2912px 0px;
+}
+.flair-RDTT2 {
+color:#800003;
+}
+.flair-GLHF:before {
+background-position:-2928px 0px;
+}
+.flair-GLHF {
+color:#02eeb6;
+}
+.flair-RNGUN:before {
+background-position:-2944px 0px;
+}
+.flair-RNGUN {
+color:#c66108;
+}
+.flair-NHF:before {
+background-position:-2960px 0px;
+}
+.flair-NHF {
+color:#6c0ba5;
+}
+.flair-4CVR:before {
+background-position:-2976px 0px;
+}
+.flair-4CVR {
+color:#4c5db0;
+}
+.flair-USCRTVS2:before {
+background-position:-2992px 0px;
+}
+.flair-USCRTVS2 {
+color:#519a78;
+}
+.flair-QUSCRBAL:before {
+background-position:-3008px 0px;
+}
+.flair-QUSCRBAL {
+color:#bfbfbf;
+}
+.flair-6-ACR:before {
+background-position:-3024px 0px;
+}
+.flair-6-ACR {
+color:#bfbe24;
+}
+.flair-USM:before {
+background-position:-3040px 0px;
+}
+.flair-USM {
+color:#40677c;
+}
+.flair-GGNKR:before {
+background-position:-3056px 0px;
+}
+.flair-GGNKR {
+color:#6b73b2;
+}
+.flair-BE:before {
+background-position:-3072px 0px;
+}
+.flair-BE {
+color:#a10011;
+}
+.flair-MSOB:before {
+background-position:-3088px 0px;
+}
+.flair-MSOB {
+color:#80000e;
+}
+.flair-NAVI:before {
+background-position:-3104px 0px;
+}
+.flair-NAVI {
+color:#442e80;
+}
+.flair-F-C:before {
+background-position:-3120px 0px;
+}
+.flair-F-C {
+color:#22205f;
+}
+.flair-BCAMP:before {
+background-position:-3136px 0px;
+}
+.flair-BCAMP {
+color:#1aff5c;
+}
+.flair-SOGG:before {
+background-position:-3152px 0px;
+}
+.flair-SOGG {
+color:#4afb3e;
+}
+.flair-27PZR:before {
+background-position:-3168px 0px;
+}
+.flair-27PZR {
+color:#6274b3;
+}
+.flair-ANVIL:before {
+background-position:-3184px 0px;
+}
+.flair-ANVIL {
+color:#f7760d;
+}
+.flair-LATIN:before {
+background-position:-3200px 0px;
+}
+.flair-LATIN {
+color:#ce0008;
+}
+.flair-ROCKY:before {
+background-position:-3216px 0px;
+}
+.flair-ROCKY {
+color:#7700bf;
+}
+.flair-THRET:before {
+background-position:-3232px 0px;
+}
+.flair-THRET {
+color:#8b84ab;
+}
+.flair-MAHOU:before {
+background-position:-3248px 0px;
+}
+.flair-MAHOU {
+color:#222266;
+}
+.flair--G-:before {
+background-position:-3264px 0px;
+}
+.flair--G- {
+color:#394f41;
+}
+.flair-YOUJO:before {
+background-position:-3280px 0px;
+}
+.flair-YOUJO {
+color:#403b56;
+}
+.flair--DSS-:before {
+background-position:-3296px 0px;
+}
+.flair--DSS- {
+color:#ff0000;
+}
+.flair-PCKLE:before {
+background-position:-3312px 0px;
+}
+.flair-PCKLE {
+color:#61ac6c;
+}
+.flair-CABRA:before {
+background-position:-3328px 0px;
+}
+.flair-CABRA {
+color:#be1000;
+}
+.flair-NTL-M:before {
+background-position:-3344px 0px;
+}
+.flair-NTL-M {
+color:#32abd1;
+}
+.flair-GTT:before {
+background-position:-3360px 0px;
+}
+.flair-GTT {
+color:#00e110;
+}
+.flair-G-VK:before {
+background-position:-3376px 0px;
+}
+.flair-G-VK {
+color:#d7c100;
+}
+.flair--202-:before {
+background-position:-3392px 0px;
+}
+.flair--202- {
+color:#3449e8;
+}
+.flair-JGRN:before {
+background-position:-3408px 0px;
+}
+.flair-JGRN {
+color:#b30707;
+}
+.flair-RUSCRAUSCRT:before {
+background-position:-3424px 0px;
+}
+.flair-RUSCRAUSCRT {
+color:#895405;
+}
+.flair-BBICT:before {
+background-position:-3440px 0px;
+}
+.flair-BBICT {
+color:#0d10bd;
+}
+.flair-XSSX:before {
+background-position:-3456px 0px;
+}
+.flair-XSSX {
+color:#a4f016;
+}
+.flair-MEX:before {
+background-position:-3472px 0px;
+}
+.flair-MEX {
+color:#f50404;
+}
+.flair-AFTTE:before {
+background-position:-3488px 0px;
+}
+.flair-AFTTE {
+color:#779e64;
+}
+.flair-E50M:before {
+background-position:-3504px 0px;
+}
+.flair-E50M {
+color:#b41ada;
+}
+.flair-BULBA:before {
+background-position:-3520px 0px;
+}
+.flair-BULBA {
+color:#ea6000;
+}
+.flair-SUX:before {
+background-position:-3536px 0px;
+}
+.flair-SUX {
+color:#505050;
+}
+.flair-AOG2:before {
+background-position:-3552px 0px;
+}
+.flair-AOG2 {
+color:#bd714a;
+}
+.flair-DRK:before {
+background-position:-3568px 0px;
+}
+.flair-DRK {
+color:#724762;
+}
+.flair-CS7AO:before {
+background-position:-3584px 0px;
+}
+.flair-CS7AO {
+color:#acb66a;
+}
+.flair-IKU2:before {
+background-position:-3600px 0px;
+}
+.flair-IKU2 {
+color:#c18ac2;
+}
+.flair-FUSCRAUSCRL:before {
+background-position:-3616px 0px;
+}
+.flair-FUSCRAUSCRL {
+color:#a60000;
+}
+.flair-CLAIM:before {
+background-position:-3632px 0px;
+}
+.flair-CLAIM {
+color:#dcb117;
+}
+.flair-EWC:before {
+background-position:-3648px 0px;
+}
+.flair-EWC {
+color:#ff5151;
+}
+.flair-DTC:before {
+background-position:-3664px 0px;
+}
+.flair-DTC {
+color:#fb3000;
+}
+.flair-F--H:before {
+background-position:-3680px 0px;
+}
+.flair-F--H {
+color:#404040;
+}
+.flair-RBCC:before {
+background-position:-3696px 0px;
+}
+.flair-RBCC {
+color:#c90d0d;
+}
+.flair-USCRWOOUSCR:before {
+background-position:-3712px 0px;
+}
+.flair-USCRWOOUSCR {
+color:#8a8646;
+}
+.flair-USCREUSCR:before {
+background-position:-3728px 0px;
+}
+.flair-USCREUSCR {
+color:#e04b00;
+}
+.flair-TUSCRWUSCRT:before {
+background-position:-3744px 0px;
+}
+.flair-TUSCRWUSCRT {
+color:#325827;
+}
+.flair--NAG-:before {
+background-position:-3760px 0px;
+}
+.flair--NAG- {
+color:#2836d3;
+}
+.flair-CRIMZ:before {
+background-position:-3776px 0px;
+}
+.flair-CRIMZ {
+color:#8bff5e;
+}
+.flair-TMPL:before {
+background-position:-3792px 0px;
+}
+.flair-TMPL {
+color:#bb0b0b;
+}
+.flair-25CDN:before {
+background-position:-3808px 0px;
+}
+.flair-25CDN {
+color:#cf1010;
+}
+.flair-PZMOE:before {
+background-position:-3824px 0px;
+}
+.flair-PZMOE {
+color:#6b4c3d;
+}
+.flair-9-PDH:before {
+background-position:-3840px 0px;
+}
+.flair-9-PDH {
+color:#7a8077;
+}
+.flair-VIPR:before {
+background-position:-3856px 0px;
+}
+.flair-VIPR {
+color:#b30a26;
+}
+.flair-B-T-G:before {
+background-position:-3872px 0px;
+}
+.flair-B-T-G {
+color:#2462cf;
+}
+.flair-EARCT:before {
+background-position:-3888px 0px;
+}
+.flair-EARCT {
+color:#36f229;
+}
+.flair-TONKX:before {
+background-position:-3904px 0px;
+}
+.flair-TONKX {
+color:#e3e28c;
+}
+.flair-SOYUZ:before {
+background-position:-3920px 0px;
+}
+.flair-SOYUZ {
+color:#2a40fd;
+}
+.flair-CDEV:before {
+background-position:-3936px 0px;
+}
+.flair-CDEV {
+color:#8f0012;
+}
+.flair-BABNS:before {
+background-position:-3952px 0px;
+}
+.flair-BABNS {
+color:#95ba45;
+}
+.flair--TKB-:before {
+background-position:-3968px 0px;
+}
+.flair--TKB- {
+color:#00ec01;
+}
+.flair--IPA-:before {
+background-position:-3984px 0px;
+}
+.flair--IPA- {
+color:#aee549;
+}
+.flair-4HIM2:before {
+background-position:-4000px 0px;
+}
+.flair-4HIM2 {
+color:#00fffa;
+}
+.flair-USCR1STUSCR:before {
+background-position:-4016px 0px;
+}
+.flair-USCR1STUSCR {
+color:#4f7435;
+}
+.flair-GUSCREX:before {
+background-position:-4032px 0px;
+}
+.flair-GUSCREX {
+color:#d40000;
+}
+.flair-SHAQ:before {
+background-position:-4048px 0px;
+}
+.flair-SHAQ {
+color:#b50c16;
+}
+.flair-DEVON:before {
+background-position:-4064px 0px;
+}
+.flair-DEVON {
+color:#f3e313;
+}
+.flair-WPP:before {
+background-position:-4080px 0px;
+}
+.flair-WPP {
+color:#6538d7;
+}
+.flair-VALUE:before {
+background-position:-4096px 0px;
+}
+.flair-VALUE {
+color:#1ab256;
+}
+.flair--LNF-:before {
+background-position:-4112px 0px;
+}
+.flair--LNF- {
+color:#ef0000;
+}
+.flair-CLAS2:before {
+background-position:-4128px 0px;
+}
+.flair-CLAS2 {
+color:#800000;
+}
+.flair-1-DBB:before {
+background-position:-4144px 0px;
+}
+.flair-1-DBB {
+color:#0013a4;
+}
+.flair-USCRONUUSCR:before {
+background-position:-4160px 0px;
+}
+.flair-USCRONUUSCR {
+color:#fc0000;
+}
+.flair-W-UNI:before {
+background-position:-4176px 0px;
+}
+.flair-W-UNI {
+color:#e30500;
+}
+.flair-SBW:before {
+background-position:-4192px 0px;
+}
+.flair-SBW {
+color:#f3ff41;
+}
+.flair-DOREK:before {
+background-position:-4208px 0px;
+}
+.flair-DOREK {
+color:#f4be67;
+}
+.flair--GNR-:before {
+background-position:-4224px 0px;
+}
+.flair--GNR- {
+color:#77838a;
+}
+.flair-0521:before {
+background-position:-4240px 0px;
+}
+.flair-0521 {
+color:#08309a;
+}
+.flair--OSO-:before {
+background-position:-4256px 0px;
+}
+.flair--OSO- {
+color:#1dab47;
+}
+.flair-TANQC:before {
+background-position:-4272px 0px;
+}
+.flair-TANQC {
+color:#1d740c;
+}
+.flair-GTO:before {
+background-position:-4288px 0px;
+}
+.flair-GTO {
+color:#ff0000;
+}
+.flair-JEDI:before {
+background-position:-4304px 0px;
+}
+.flair-JEDI {
+color:#19bf64;
+}
+.flair-POP-C:before {
+background-position:-4320px 0px;
+}
+.flair-POP-C {
+color:#d6ce22;
+}
+.flair-IA-BR:before {
+background-position:-4336px 0px;
+}
+.flair-IA-BR {
+color:#fc8c10;
+}
+.flair-W-O-W:before {
+background-position:-4352px 0px;
+}
+.flair-W-O-W {
+color:#f2ef27;
+}
+.flair--VETS:before {
+background-position:-4368px 0px;
+}
+.flair--VETS {
+color:#ab714d;
+}
+.flair-RENB2:before {
+background-position:-4384px 0px;
+}
+.flair-RENB2 {
+color:#b38181;
+}
+.flair-THR0W:before {
+background-position:-4400px 0px;
+}
+.flair-THR0W {
+color:#510187;
+}
+.flair-F-3:before {
+background-position:-4416px 0px;
+}
+.flair-F-3 {
+color:#e38911;
+}
+.flair--SDS-:before {
+background-position:-4432px 0px;
+}
+.flair--SDS- {
+color:#a9000a;
+}
+.flair-AXMAN:before {
+background-position:-4448px 0px;
+}
+.flair-AXMAN {
+color:#a66c66;
+}
+.flair-S0YUZ:before {
+background-position:-4464px 0px;
+}
+.flair-S0YUZ {
+color:#0b2ae4;
+}
+.flair-CLAS4:before {
+background-position:-4480px 0px;
+}
+.flair-CLAS4 {
+color:#ffea23;
+}
+.flair-BWSO:before {
+background-position:-4496px 0px;
+}
+.flair-BWSO {
+color:#5d10e5;
+}
+.flair-CMGA:before {
+background-position:-4512px 0px;
+}
+.flair-CMGA {
+color:#f27a7a;
+}
+.flair--BX-:before {
+background-position:-4528px 0px;
+}
+.flair--BX- {
+color:#49b0c3;
+}
+.flair-WOLVS:before {
+background-position:-4544px 0px;
+}
+.flair-WOLVS {
+color:#a12da7;
+}
+.flair--IGC-:before {
+background-position:-4560px 0px;
+}
+.flair--IGC- {
+color:#9664be;
+}
+.flair-F-A-T:before {
+background-position:-4576px 0px;
+}
+.flair-F-A-T {
+color:#8ea6f0;
+}
+.flair-SHEEN:before {
+background-position:-4592px 0px;
+}
+.flair-SHEEN {
+color:#ff0606;
+}
+.flair--907-:before {
+background-position:-4608px 0px;
+}
+.flair--907- {
+color:#328a2a;
+}
+.flair-C-I-S:before {
+background-position:-4624px 0px;
+}
+.flair-C-I-S {
+color:#b4a9ab;
+}
+.flair--HTK-:before {
+background-position:-4640px 0px;
+}
+.flair--HTK- {
+color:#f95d19;
+}
+.flair-DTF:before {
+background-position:-4656px 0px;
+}
+.flair-DTF {
+color:#cd0404;
+}
+.flair--REM-:before {
+background-position:-4672px 0px;
+}
+.flair--REM- {
+color:#cdc52d;
+}
+.flair-PANSY:before {
+background-position:-4688px 0px;
+}
+.flair-PANSY {
+color:#f70bff;
+}
+.flair-USCRDOAUSCR:before {
+background-position:-4704px 0px;
+}
+.flair-USCRDOAUSCR {
+color:#000880;
+}
+.flair-URUAR:before {
+background-position:-4720px 0px;
+}
+.flair-URUAR {
+color:#51a2b0;
+}
+.flair-USCRCVUSCR:before {
+background-position:-4736px 0px;
+}
+.flair-USCRCVUSCR {
+color:#af0000;
+}
+.flair-NASTI:before {
+background-position:-4752px 0px;
+}
+.flair-NASTI {
+color:#870004;
+}
+.flair--BTU-:before {
+background-position:-4768px 0px;
+}
+.flair--BTU- {
+color:#1a8200;
+}
+.flair-KRPOW:before {
+background-position:-4784px 0px;
+}
+.flair-KRPOW {
+color:#ec2121;
+}
+.flair-USCRB-ZUSCR:before {
+background-position:-4800px 0px;
+}
+.flair-USCRB-ZUSCR {
+color:#00ffda;
+}
+.flair-A4D:before {
+background-position:-4816px 0px;
+}
+.flair-A4D {
+color:#404040;
+}
+.flair-0SHA:before {
+background-position:-4832px 0px;
+}
+.flair-0SHA {
+color:#ff0b0b;
+}
+.flair-BETAS:before {
+background-position:-4848px 0px;
+}
+.flair-BETAS {
+color:#600ed1;
+}
+.flair-PPC:before {
+background-position:-4864px 0px;
+}
+.flair-PPC {
+color:#5810b5;
+}
+.flair-FATE:before {
+background-position:-4880px 0px;
+}
+.flair-FATE {
+color:#ff00ff;
 }
 
-.flair-WANTD:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-57px -343px;
-padding:0;
-}
 
-.flair-WHYME:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -265px;
-padding:0;
-}
-
-.flair-WOTCJ:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -291px;
-padding:0;
-}
-
-.flair-YO-OY:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-343px -317px;
-padding:0;
-}
-
-.flair-ZWACK:before {
-margin-right:2px;
-content:"";
-background-image:url(%%clan-sprites%%);
-background-repeat:no-repeat;
-display:inline-block;
-border:none!important;
-vertical-align:middle;
-width:16px;
-height:16px;
-background-position:-5px -343px;
-padding:0;
-}
 
 .flair-euplayer:before {
 content:"";
@@ -4249,10 +3479,6 @@ color:#d9d9d9!important;
 
 #sr-header-area a:hover,#srList a:hover,#header-bottom-right a:hover,#header-bottom-right.res-navTop a:hover,#RESShortcutsSort:hover,#RESShortcutsRight:hover,#RESShortcutsLeft:hover,#RESShortcutsAdd:hover,#RESShortcutsTrash:hover,.titlebox blockquote ul li a:hover,.titlebox blockquote ul li:first-child:hover,.titlebox blockquote li a:hover,.md h3 a:hover {
 color:#f25322!important;
-}
-
-#srList tr:hover,.flair,.userflairlabel {
-background:transparent!important;
 }
 
 .drop-choices a.choice,.submit .tabmenu.formtab .selected a {
