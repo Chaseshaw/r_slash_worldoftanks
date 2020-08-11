@@ -52,9 +52,10 @@ padding:2px;
 }
 
 #header {
-background-image: url(%%e100%%)!important; /* 90k */
+background-image: url(%%90kBanner%%)!important; /* 90k */
 background-size: cover;
 border-bottom:0;
+height: 200px;
 position:relative;
 }
 
@@ -3815,7 +3816,7 @@ border-color:#FFF;
 padding:1px 4px 1px 22px;
 }
 
-.author[href$="/AvatarOfMomus"]:after,.author[href$="/shutupshake"]:after,.author[href$="/Panzer9Supertiger"]:after,.author[href$="/Jak_Atackka"]:after,.author[href$="/Dae314"]:after,.author[href$="/arktoid"]:after,.author[href$="/Shuffletron"]:after,.author[href$="/justjax"]:after,.author[href$="/shiftyjamo"]:after,.author[href$="/knightelite"]:after,.author[href$="/groundpounder11"]:after,.author[href$="/nolo_me"]:after,.author[href$="/Lmui"]:after,.author[href$="/FLU773RSHY"]:after, .author[href$="/WoT_Slave"]:after, .author[href$="/senaya"]:after, .author[href$="/woolywoo"]:after, .author[href$="/ScorpianyTheGOAT"]:after, .author[href$="/Masterman77_"]:after {
+.author[href$="/AvatarOfMomus"]:after,.author[href$="/shutupshake"]:after,.author[href$="/Panzer9Supertiger"]:after,.author[href$="/Jak_Atackka"]:after,.author[href$="/Dae314"]:after,.author[href$="/arktoid"]:after,.author[href$="/Shuffletron"]:after,.author[href$="/justjax"]:after,.author[href$="/shiftyjamo"]:after,.author[href$="/knightelite"]:after,.author[href$="/groundpounder11"]:after,.author[href$="/nolo_me"]:after,.author[href$="/Lmui"]:after,.author[href$="/FLU773RSHY"]:after, .author[href$="/WoT_Slave"]:after, .author[href$="/senaya"]:after, .author[href$="/woolywoo"]:after, .author[href$="/ScorpianyTheGOAT"]:after {
 content:"Quality Contributor";
 color:#FFF;
 border-radius:2px;
